@@ -1,7 +1,7 @@
 // TinkV3.cs —— tink v3 frame skeleton + message fragmentation (C# / .NET, no dependencies).
 //
 // Mirrors the C / Python / Rust / Java ports and the tie reference
-// implementation (tlib std/tink.tie); KAT vectors are byte-exact across
+// implementation (tlib ext/tink.tie); KAT vectors are byte-exact across
 // languages.
 //
 // Frame (16-byte fixed header, big-endian; v3 design doc §3):

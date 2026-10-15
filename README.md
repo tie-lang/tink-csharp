@@ -52,7 +52,7 @@ tink v3 帧协议各语言实现（API 语义与 KAT 向量逐字节一致）：
 
 | language | library |
 | --- | --- |
-| tie | `tlib std/tink.tie`（参考实现） |
+| tie | `tlib ext/tink.tie`（参考实现） |
 | C | `tink-c`（`tink_v3.h` + `tink_v3.c`） |
 | Rust | `tink-rust`（`src/v3.rs`） |
 | Python | `tink-python`（`tink_v3.py`） |
