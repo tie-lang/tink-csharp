@@ -1,3 +1,6 @@
 bin/
 obj/
 *.user
+# tpkg 规范
+target/
+_local_only/
